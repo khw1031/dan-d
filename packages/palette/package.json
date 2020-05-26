@@ -1,6 +1,6 @@
 {
   "name": "@dand/palette",
-  "version": "0.0.5",
+  "version": "0.0.4",
   "description": "",
   "author": "khw1031 <khw1031@gmail.com>",
   "license": "MIT",
@@ -18,8 +18,8 @@
   "bugs": {
     "url": "https://github.com/khw1031/dan-d/issues"
   },
+  "private": false,
   "publishConfig": {
     "access": "public"
-  },
-  "gitHead": "1d2c631629d2e6e22d9a4724bd1e57e847f6c714"
+  }
 }
