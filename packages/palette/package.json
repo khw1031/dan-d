@@ -1,0 +1,26 @@
+{
+  "name": "@dand/palette",
+  "version": "0.0.1",
+  "description": "> TODO: description",
+  "author": "khw1031 <khw1031@gmail.com>",
+  "homepage": "https://github.com/khw1031/dan-d#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khw1031/dan-d.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/khw1031/dan-d/issues"
+  }
+}
