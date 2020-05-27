@@ -1,10 +1,10 @@
 #### init 20200526
 
 - monorepo research
-- lerna init
+- [lerna](https://github.com/lerna/lerna) init
 
 ```sh
-$ npx lerna init
+$ npx lerna init --independent
 # https://github.com/lerna/lerna#lernajson
 ```
 
